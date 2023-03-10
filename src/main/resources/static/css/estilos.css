@@ -1,0 +1,13 @@
+body{
+    background-image: url(../img/star-wars.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+th,td{
+    color: #ffffff
+
+}
+h1{
+    font-size: 60px;
+}
